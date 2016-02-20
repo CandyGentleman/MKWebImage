@@ -2,8 +2,8 @@
 //  MKReadAndWriteToSandbox.m
 //  第四天图片下载
 //
-//  Created by liulujie on 15/12/5.
-//  Copyright © 2015年 liulujie. All rights reserved.
+//  Created by liulujie on 14/12/7.
+//  Copyright © 2014年 liulujie. All rights reserved.
 //
 
 #import "MKReadAndWriteToSandbox.h"

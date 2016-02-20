@@ -2,8 +2,8 @@
 //  ViewController.m
 //  MKWebImage
 //
-//  Created by liulujie on 15/12/7.
-//  Copyright © 2015年 liulujie. All rights reserved.
+//  Created by liulujie on 14/12/7.
+//  Copyright © 2014年 liulujie. All rights reserved.
 //
 
 #import "ViewController.h"
